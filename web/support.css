@@ -1,0 +1,10 @@
+div{
+    margin: 10px;
+}
+
+.centerEl{
+    text-align: center;
+    margin: 20px;
+    background-color: #f6ffd1;
+    border: 1px solid midnightblue;
+}
